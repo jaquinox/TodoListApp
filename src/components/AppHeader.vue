@@ -21,7 +21,7 @@
         border-bottom: #333 1px solid;
         background-color: #fff;
     }
-
+   
     header::after{
         content: "";
         display: block;
