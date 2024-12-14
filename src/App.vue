@@ -1,6 +1,7 @@
 <script setup lang="ts">
 
 import AppHeader from './components/AppHeader.vue'
+import TodoList from './components/TodoList.vue';
 
 
 </script>
@@ -9,6 +10,9 @@ import AppHeader from './components/AppHeader.vue'
 
 
     <AppHeader />
+
+    <TodoList />
+
 
 </template>
 
